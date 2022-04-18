@@ -1,7 +1,7 @@
 # MEIC2CMAQ  
 This is a tool to process MEIC(http://meicmodel.org/) Emission Data for CMAQ Modeling.
 ## Data Pre-intepolation  
-later.
+Sample emission files were uploaded, and I will explain how to do this later.
 
 ## Biogenic Emissions  
 Biogenic emissions were estimated with my previous work SimpleBIO, I merged the codes into this program.
